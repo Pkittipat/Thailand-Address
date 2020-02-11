@@ -75,5 +75,5 @@
   { "PROVINCE_ID": 74, "PROVINCE_CODE": "94", "PROVINCE_NAME": "ปัตตานี", "GEO_ID": 6 },
   { "PROVINCE_ID": 75, "PROVINCE_CODE": "95", "PROVINCE_NAME": "ยะลา", "GEO_ID": 6 },
   { "PROVINCE_ID": 76, "PROVINCE_CODE": "96", "PROVINCE_NAME": "นราธิวาส", "GEO_ID": 6 },
-  { "PROVINCE_ID": 77, "PROVINCE_CODE": "97", "PROVINCE_NAME": "บึงกาฬ", "GEO_ID": 3 }
+  { "PROVINCE_ID": 77, "PROVINCE_CODE": "38", "PROVINCE_NAME": "บึงกาฬ", "GEO_ID": 3 }
 ]
